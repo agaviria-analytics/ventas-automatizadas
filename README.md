@@ -56,6 +56,14 @@ Portafolio: [agaviria-analytics.github.io](https://agaviria-analytics.github.io)
    * Gráfico de torta (participación %)
 
 ---
+## 📊 Gráficas Generadas
+
+### Total Vendido por Producto (Gráfico de Barras)
+![Gráfico de barras](graficas/ventas_por_producto_barras.png)
+
+### Participación de Ventas por Producto (Gráfico de Torta)
+![Gráfico de torta](graficas/ventas_por_producto_torta.png)
+
 
 ## 🚀 Ideal Para...
 
