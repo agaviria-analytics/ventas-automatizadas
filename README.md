@@ -27,13 +27,13 @@ Portafolio: [agaviria-analytics.github.io](https://agaviria-analytics.github.io)
 ```
 .
 ├── datos/
-│   ├── ventas_diarias.xlsx          # Archivo simulado exportado desde SAP
+│   ├── ventas_diarias.xlsx            # Archivo simulado exportado desde SAP
 ├── resultados/
-│   ├── resumen_ventas.xlsx           # Archivo generado con varias hojas (resumen)
+│   ├── resumen_ventas.xlsx            # Archivo generado con varias hojas (resumen)
 ├── graficas/
-│   ├── ventas_por_producto_barras.png  # Gráfico de barras
+│   ├── ventas_por_producto_barras.png # Gráfico de barras
 │   └── ventas_por_producto_torta.png  # Gráfico de torta
-├── ventas_diarias_resumen.py                # Script principal de automatización
+├── ventas_diarias_resumen.py          # Script principal de automatización
 └── README.md
 ```
 
@@ -93,7 +93,7 @@ Si se actualizan los datos en `ventas_diarias.xlsx`, al ejecutar nuevamente el s
 
 ## 🙌 Aporte
 
-Este proyecto fue construido como parte del entrenamiento personal de Héctor para profesionalizarse en el área de datos. Cualquier sugerencia es bienvenida. ¡Gracias por visitar el repositorio!
+Este proyecto fue construido como parte de mi entrenamiento personal para profesionalizarme en el área de datos. Cualquier sugerencia es bienvenida. ¡Gracias por visitar el repositorio!
 
 
 
